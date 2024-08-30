@@ -68,7 +68,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="DetalleArticulo.aspx" />
-    <Content Include="Pages\Default.aspx" />
+    <Content Include="Error.aspx" />
+    <Content Include="FormularioArticulo.aspx" />
+    <Content Include="Img\LogoGoldtech-removebg-preview.png" />
+    <Content Include="ListadoProductos.aspx" />
+    <Content Include="Default.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -79,11 +83,32 @@
     <Compile Include="DetalleArticulo.aspx.designer.cs">
       <DependentUpon>DetalleArticulo.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Default.aspx.cs">
+    <Compile Include="Error.aspx.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Error.aspx.designer.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormularioArticulo.aspx.cs">
+      <DependentUpon>FormularioArticulo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FormularioArticulo.aspx.designer.cs">
+      <DependentUpon>FormularioArticulo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListadoProductos.aspx.cs">
+      <DependentUpon>ListadoProductos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListadoProductos.aspx.designer.cs">
+      <DependentUpon>ListadoProductos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Pages\Default.aspx.designer.cs">
+    <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
     <Compile Include="Master.Master.cs">
@@ -114,6 +139,9 @@
       <Project>{45804827-d3de-4110-be66-327e6453044a}</Project>
       <Name>negocio</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Pages\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

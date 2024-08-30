@@ -3,25 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|c:\\users\\alvar\\desktop\\proyectonuevo\\proyecto1\\pages\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|solutionrelative:pages\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|c:\\users\\alvar\\desktop\\proyectonuevo\\proyecto1\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|solutionrelative:master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|c:\\users\\alvar\\desktop\\proyectonuevo\\proyecto1\\detallearticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|solutionrelative:detallearticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|c:\\users\\alvar\\desktop\\proyectonuevo\\proyecto1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45804827-D3DE-4110-BE66-327E6453044A}|..\\negocio\\negocio.csproj|c:\\users\\alvar\\desktop\\proyectonuevo\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|c:\\users\\alvar\\desktop\\proyectonuevo\\proyecto1\\img\\logogoldtech-removebg-preview.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|solutionrelative:img\\logogoldtech-removebg-preview.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\listadoproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|solutionrelative:listadoproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|c:\\users\\alvar\\desktop\\proyectonuevo\\proyecto1\\formularioarticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|solutionrelative:formularioarticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45804827-D3DE-4110-BE66-327E6453044A}|..\\negocio\\negocio.csproj|c:\\users\\alvar\\desktop\\proyectonuevo\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|c:\\users\\alvar\\desktop\\proyectonuevo\\proyecto1\\pages\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|solutionrelative:pages\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\listadoproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|solutionrelative:listadoproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E43D18F-D33E-4EC4-80DF-B0849B055AAE}|..\\dominio\\dominio.csproj|c:\\users\\alvar\\desktop\\proyectonuevo\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|c:\\users\\alvar\\desktop\\proyectonuevo\\proyecto1\\error.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|solutionrelative:error.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|c:\\users\\alvar\\desktop\\proyectonuevo\\proyecto1\\error.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{444F3EED-33F1-4D38-8377-CCDADF451CED}|Proyecto1.csproj|solutionrelative:error.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 251,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,80 +61,118 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DetalleArticulo.aspx",
-              "DocumentMoniker": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\DetalleArticulo.aspx",
-              "RelativeDocumentMoniker": "DetalleArticulo.aspx",
-              "ToolTip": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\DetalleArticulo.aspx",
-              "RelativeToolTip": "DetalleArticulo.aspx",
+              "DocumentIndex": 2,
+              "Title": "LogoGoldtech-removebg-preview.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [328x325, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\Img\\LogoGoldtech-removebg-preview.png",
+              "RelativeDocumentMoniker": "Img\\LogoGoldtech-removebg-preview.png",
+              "ToolTip": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\Img\\LogoGoldtech-removebg-preview.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [328x325, 32 bits, PNG]",
+              "RelativeToolTip": "Img\\LogoGoldtech-removebg-preview.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [328x325, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-30T00:05:09.969Z",
+              "EditorCaption": " -  [Espa\u00F1ol (M\u00E9xico)] - PNG [328x325, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Master.Master",
+              "DocumentMoniker": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\Master.Master",
+              "RelativeDocumentMoniker": "Master.Master",
+              "ToolTip": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\Master.Master",
+              "RelativeToolTip": "Master.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-08-09T00:44:36.927Z",
+              "WhenOpened": "2024-08-29T23:56:41.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ArticuloNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\negocio\\ArticuloNegocio.cs",
-              "RelativeDocumentMoniker": "..\\negocio\\ArticuloNegocio.cs",
-              "ToolTip": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\negocio\\ArticuloNegocio.cs",
-              "RelativeToolTip": "..\\negocio\\ArticuloNegocio.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAAwIsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T22:07:37.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\Pages\\Default.aspx.cs",
-              "RelativeDocumentMoniker": "Pages\\Default.aspx.cs",
-              "ToolTip": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\Pages\\Default.aspx.cs",
-              "RelativeToolTip": "Pages\\Default.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T21:59:00.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MarcaNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\negocio\\MarcaNegocio.cs",
-              "RelativeDocumentMoniker": "..\\negocio\\MarcaNegocio.cs",
-              "ToolTip": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\negocio\\MarcaNegocio.cs",
-              "RelativeToolTip": "..\\negocio\\MarcaNegocio.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBIAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T21:57:53.624Z",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-29T23:54:47.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\dominio\\Articulo.cs",
-              "RelativeDocumentMoniker": "..\\dominio\\Articulo.cs",
-              "ToolTip": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\dominio\\Articulo.cs",
-              "RelativeToolTip": "..\\dominio\\Articulo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ArticuloNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\negocio\\ArticuloNegocio.cs",
+              "RelativeDocumentMoniker": "..\\negocio\\ArticuloNegocio.cs",
+              "ToolTip": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\negocio\\ArticuloNegocio.cs",
+              "RelativeToolTip": "..\\negocio\\ArticuloNegocio.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T21:52:39.741Z",
+              "WhenOpened": "2024-08-29T21:33:22.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\Pages\\Default.aspx",
-              "RelativeDocumentMoniker": "Pages\\Default.aspx",
-              "ToolTip": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\Pages\\Default.aspx",
-              "RelativeToolTip": "Pages\\Default.aspx",
+              "DocumentIndex": 7,
+              "Title": "Error.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\Error.aspx.cs",
+              "RelativeDocumentMoniker": "Error.aspx.cs",
+              "ToolTip": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\Error.aspx.cs",
+              "RelativeToolTip": "Error.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:31:02.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.aspx",
+              "DocumentMoniker": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\Error.aspx",
+              "RelativeDocumentMoniker": "Error.aspx",
+              "ToolTip": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\Error.aspx",
+              "RelativeToolTip": "Error.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-08-08T15:53:01.775Z",
+              "WhenOpened": "2024-08-29T21:30:38.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormularioArticulo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\FormularioArticulo.aspx.cs",
+              "RelativeDocumentMoniker": "FormularioArticulo.aspx.cs",
+              "ToolTip": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\FormularioArticulo.aspx.cs",
+              "RelativeToolTip": "FormularioArticulo.aspx.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAArwIQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:31:17.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListadoProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\ListadoProductos.aspx",
+              "RelativeDocumentMoniker": "ListadoProductos.aspx",
+              "ToolTip": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\ListadoProductos.aspx",
+              "RelativeToolTip": "ListadoProductos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-27T20:35:07.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListadoProductos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\ListadoProductos.aspx.cs",
+              "RelativeDocumentMoniker": "ListadoProductos.aspx.cs",
+              "ToolTip": "C:\\Users\\alvar\\Desktop\\ProyectoNuevo\\Proyecto1\\ListadoProductos.aspx.cs",
+              "RelativeToolTip": "ListadoProductos.aspx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwFoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:54:18.992Z",
               "EditorCaption": ""
             }
           ]
